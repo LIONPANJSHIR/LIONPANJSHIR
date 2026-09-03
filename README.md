@@ -148,7 +148,7 @@ en France.
 ✔ Power BI Dashboard  
 ✔ Data Storytelling
 
-🔗 **[Voir le projet]([https://github.com/LIONPANJSHIR/dynamiques-emploi-prive-france-2006-2025])**
+🔗 **[Voir le projet](https://github.com/LIONPANJSHIR/dynamiques-emploi-prive-france-2006-2025)**
 
 ---
 
