@@ -190,15 +190,15 @@ Segmentation d'une clientèle e-commerce à partir du comportement transactionne
 
 ---
 
-## ⚡ Analyse du mix électrique français
+## 🚇 Analyse de la qualité de l'air du réseau RATP
 
-**Stack:** `Python` · `Power BI` · `RTE Open Data`
+**Stack:** `Python` · `Pandas` · `Power BI` · `Data Quality` · `Time Series`
 
-Analyse de la production et de la consommation électrique française afin
-d'étudier l'évolution du mix énergétique.
+Analyse des données du réseau **SQUALES de la RATP** afin d'étudier la qualité de l'air dans les stations souterraines et l'évolution des principaux polluants au cours du temps.
 
-🔗 **[Voir le projet](LIEN_GITHUB)**
+Le projet couvre la **qualité des données**, l'analyse des valeurs manquantes et aberrantes, les tendances temporelles, la comparaison entre stations et la construction d'indicateurs de suivi autour des `PM10`, `PM2.5`, `NO`, `NO₂` et `CO₂`.
 
+🔗 **[Voir le projet](https://github.com/LIONPANJSHIR/ratp_air_quality)**
 ---
 
 # ⚙️ Data Engineering Projects
