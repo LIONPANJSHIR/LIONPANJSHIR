@@ -186,7 +186,7 @@ Segmentation d'une clientèle e-commerce à partir du comportement transactionne
 - Behavioral Analysis
 - Customer Value Analysis
 
-🔗 **[Voir le projet](LIEN_GITHUB)**
+🔗 **[Voir le projet](https://github.com/LIONPANJSHIR/Segmentation-de-la-clientele)**
 
 ---
 
@@ -238,7 +238,7 @@ Analytics
 ✔ Fact & Dimension Tables  
 ✔ SQL Analytics
 
-🔗 **[Voir le projet](LIEN_GITHUB)**
+🔗 **[Voir le projet](https://github.com/LIONPANJSHIR/Projet-sql-data-warehouse)**
 
 ---
 
