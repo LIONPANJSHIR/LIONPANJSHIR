@@ -168,7 +168,7 @@ Analyse des données RH afin d'identifier les facteurs associés aux départs,
 ✔ Power BI  
 ✔ Business Recommendations
 
-🔗 **[Voir le projet](LIEN_GITHUB)**
+🔗 **[Voir le projet](https://github.com/LIONPANJSHIR/HR-Analytics-Workforce-Employee-Insights.git)**
 
 ---
 
