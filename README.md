@@ -431,7 +431,7 @@ problématiques telles que :
 
 💼 LinkedIn : [LinkedIn](LIEN_LINKEDIN)
 
-📧 Email : `VOTRE_EMAIL`
+📧 Email : `amzoly.lionpanjshir@gmail.com
 
 💻 GitHub : [LIONPANJSHIR](https://github.com/LIONPANJSHIR)
 
